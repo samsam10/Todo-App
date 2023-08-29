@@ -1,0 +1,14 @@
+.header{
+    height: 8vh;
+}
+
+.font-custom {
+    font-family: 'YourCustomFont', sans-serif;
+}
+
+.mixed-color {
+    background: linear-gradient(to right, #47a6ff, #5fa07e);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
