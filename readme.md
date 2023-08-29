@@ -33,6 +33,7 @@ cd frontend
 npm start
 ```
 # Live Preview
+https://todosy.netlify.app/
 
 
 
