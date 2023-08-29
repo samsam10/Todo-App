@@ -17,6 +17,10 @@ mongoose.set('strictQuery', true);
 app.use(express.json())
 app.use(cors())
 
+app.get('/', async(req, res)=> {
+    res.send('Hello From Dall-E')
+})
+
 //db config
 mongoose.connect(process.env.MONGO_URI, {
     useNewUrlParser: true,
