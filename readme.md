@@ -34,6 +34,7 @@ npm start
 ```
 # Live Preview
 https://todosy.netlify.app/
-
+Backend hosted with render
+frontend hosted with netlify
 
 
